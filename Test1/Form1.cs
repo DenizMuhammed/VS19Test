@@ -27,11 +27,12 @@ namespace Test1
             Message a = new Message();
 
             a.Msg = 43;
-            
-           
+        
+        }
 
-     
-            
+        private void RemoteTest()
+        {
+          Message b;
         }
     }
 }
