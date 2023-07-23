@@ -21,5 +21,17 @@ namespace Test1
         {
             MessageBox.Show("islem tamam");
         }
+
+        private void Test()
+        {
+            Message a = new Message();
+
+            a.Msg = 43;
+            
+           
+
+     
+            
+        }
     }
 }
