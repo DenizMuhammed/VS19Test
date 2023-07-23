@@ -27,12 +27,21 @@ namespace Test1
             Message a = new Message();
 
             a.Msg = 43;
+<<<<<<< Updated upstream
         
         }
 
         private void RemoteTest()
         {
           Message b;
+=======
+            
+        }
+
+        private void Test2()
+        {
+            return;
+>>>>>>> Stashed changes
         }
     }
 }
